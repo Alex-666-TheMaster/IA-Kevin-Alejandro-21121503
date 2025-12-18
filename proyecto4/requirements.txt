@@ -1,0 +1,14 @@
+torch
+transformers
+peft
+bitsandbytes
+accelerate
+scipy
+trl
+datasets
+sentencepiece
+protobuf
+pandas
+numpy
+huggingface_hub
+python-dotenv
